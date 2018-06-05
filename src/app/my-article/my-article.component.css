@@ -1,0 +1,21 @@
+.list-inline li{
+    display: inline-block;
+    padding: 0px 15px 0px 15px;
+    margin-top: 25px;
+    font-size: 20px;
+    color: #4876FF;
+    font-weight: 500;
+}
+.myjumbotron{
+    padding: 35px 0px 35px 0px ;
+    background-color: #CFCFCF; 
+}
+.myjumbotron h1{
+    font-size: 55px;
+}
+.col-md-9 p{
+    color: #696969;
+}
+.col-md-9 h2{
+    margin-top: 25px;
+}
