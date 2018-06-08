@@ -1,11 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-my-article',
-  templateUrl: './my-article.component.html',
-  styleUrls: ['./my-article.component.css']
+  selector: 'app-my-article01',
+  templateUrl: './my-article01.component.html',
+  styleUrls: ['./my-article01.component.css']
 })
-export class MyArticleComponent{
+export class MyArticle01Component{
   count: number=0;
  
   buttonClickedup() : void {
